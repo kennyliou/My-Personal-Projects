@@ -1,0 +1,264 @@
+TmyMirror
+v7
+r0
+t332567765.552028
+cCheck dependencies
+cProcessInfoPlistFile /Users/kenny/Documents/workspace/personal/myMirror/build/Debug/myMirror.app/Contents/Info.plist myMirror-Info.plist
+cCopyStringsFile /Users/kenny/Documents/workspace/personal/myMirror/build/Debug/myMirror.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cCompileXIB /Users/kenny/Documents/workspace/personal/myMirror/English.lproj/MainMenu.xib
+cProcessPCH /var/folders/M+/M+RDJtNIFW0uIYNTdoJfIk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/myMirror_Prefix-fkwppazbybwneygrruzterjkosvb/myMirror_Prefix.pch.gch myMirror_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/myMirror.build/Debug/myMirror.build/Objects-normal/x86_64/main.o /Users/kenny/Documents/workspace/personal/myMirror/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/myMirror.build/Debug/myMirror.build/Objects-normal/x86_64/myMirrorAppDelegate.o /Users/kenny/Documents/workspace/personal/myMirror/myMirrorAppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/myMirror.build/Debug/myMirror.build/Objects-normal/x86_64/iSight.o /Users/kenny/Documents/workspace/personal/myMirror/iSight.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/kenny/Documents/workspace/personal/myMirror/build/Debug/myMirror.app/Contents/MacOS/myMirror normal x86_64
+cTouch /Users/kenny/Documents/workspace/personal/myMirror/build/Debug/myMirror.app
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004DE7F1BF00000000000000EE
+t1307046335
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/QTKit.framework/Headers/QTKit.h
+c000000004C23CA8F000000000000044A
+t1277414031
+s1098
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/QTKit.framework/QTKit
+c000000004CAA74050000000000084B90
+t1286239237
+s543632
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004D30EB97000000000000A5E0
+t1295051671
+s42464
+
+N/Users/kenny/Documents/workspace/personal/myMirror/English.lproj/InfoPlist.strings
+c000000004E2226E7000000000000002D
+t1310861031
+s45
+
+N/Users/kenny/Documents/workspace/personal/myMirror/English.lproj/MainMenu.xib
+c000000004E225D51000000000002F38D
+t1310874961
+s193421
+
+N/Users/kenny/Documents/workspace/personal/myMirror/build/Debug/myMirror.app
+t1310874965
+s102
+
+N/Users/kenny/Documents/workspace/personal/myMirror/build/Debug/myMirror.app/Contents/Info.plist
+t1310861784
+s889
+
+N/Users/kenny/Documents/workspace/personal/myMirror/build/Debug/myMirror.app/Contents/MacOS/myMirror
+t1310861788
+s15712
+
+N/Users/kenny/Documents/workspace/personal/myMirror/build/Debug/myMirror.app/Contents/PkgInfo
+t1310861784
+s8
+
+N/Users/kenny/Documents/workspace/personal/myMirror/build/Debug/myMirror.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1310861784
+s92
+
+N/Users/kenny/Documents/workspace/personal/myMirror/build/Debug/myMirror.app/Contents/Resources/English.lproj/MainMenu.nib
+t1310874965
+s34844
+
+N/Users/kenny/Documents/workspace/personal/myMirror/build/myMirror.build/Debug/myMirror.build/Objects-normal/x86_64/iSight.o
+t1310861788
+s15932
+
+N/Users/kenny/Documents/workspace/personal/myMirror/build/myMirror.build/Debug/myMirror.build/Objects-normal/x86_64/main.o
+t1310861787
+s5016
+
+N/Users/kenny/Documents/workspace/personal/myMirror/build/myMirror.build/Debug/myMirror.build/Objects-normal/x86_64/myMirror.LinkFileList
+c000000004E2229D8000000000000017F
+t1310861784
+s383
+
+N/Users/kenny/Documents/workspace/personal/myMirror/build/myMirror.build/Debug/myMirror.build/Objects-normal/x86_64/myMirrorAppDelegate.o
+t1310861787
+s21152
+
+N/Users/kenny/Documents/workspace/personal/myMirror/build/myMirror.build/Debug/myMirror.build/Objects-normal/x86_64/untitled.o
+t2
+s0
+
+N/Users/kenny/Documents/workspace/personal/myMirror/iSight.h
+c000000004E22273A0000000000000103
+t1310861114
+s259
+i<Cocoa/Cocoa.h>
+i<QTKit/QTKit.h>
+
+N/Users/kenny/Documents/workspace/personal/myMirror/iSight.m
+c000000004E222774000000000000039C
+t1310861172
+s924
+i"iSight.h"
+
+N/Users/kenny/Documents/workspace/personal/myMirror/main.m
+c000000004E2226E700000000000000FC
+t1310861031
+s252
+i<Cocoa/Cocoa.h>
+
+N/Users/kenny/Documents/workspace/personal/myMirror/myMirrorAppDelegate.h
+c000000004E2226E7000000000000013C
+t1310861031
+s316
+i<Cocoa/Cocoa.h>
+
+N/Users/kenny/Documents/workspace/personal/myMirror/myMirrorAppDelegate.m
+c000000004E2226E70000000000000172
+t1310861031
+s370
+i"myMirrorAppDelegate.h"
+
+N/Users/kenny/Documents/workspace/personal/myMirror/myMirror_Prefix.pch
+c000000004E2228E200000000000000AC
+t1310861538
+s172
+i<Cocoa/Cocoa.h>
+i<QTKit/QTKit.h>
+
+N/Users/kenny/Documents/workspace/personal/myMirror/untitled.h
+c000000004E22270300000000000000CB
+t1310861059
+s203
+i<Cocoa/Cocoa.h>
+
+N/Users/kenny/Documents/workspace/personal/myMirror/untitled.m
+c000000004E22270300000000000000BD
+t1310861059
+s189
+i"untitled.h"
+
+N/var/folders/M+/M+RDJtNIFW0uIYNTdoJfIk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/myMirror_Prefix-fkwppazbybwneygrruzterjkosvb/myMirror_Prefix.pch.gch
+t1310861787
+s55975920
+
+N/var/folders/M+/M+RDJtNIFW0uIYNTdoJfIk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/myMirror_Prefix-fxtdcllzkaubbmggozyqpeyntwjr/myMirror_Prefix.pch.gch
+t1310860241
+s54306576
+
+NmyMirror-Info.plist
+c000000004E2226E700000000000003EA
+t1310861031
+s1002
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies332567765#332567765#0(0"0(0#1#0"8604204800#0"0#
+
+CCompileC build/myMirror.build/Debug/myMirror.build/Objects-normal/x86_64/iSight.o /Users/kenny/Documents/workspace/personal/myMirror/iSight.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s332554587.953119
+e332554588.122502
+r1
+xCompileC
+xbuild/myMirror.build/Debug/myMirror.build/Objects-normal/x86_64/iSight.o
+x/Users/kenny/Documents/workspace/personal/myMirror/iSight.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Users/kenny/Documents/workspace/personal/myMirror/iSight.m332554587#332554588#0(0"0(0#0#59"/Users/kenny/Documents/workspace/personal/myMirror/iSight.m8613247296#1606"    cd /Users/kenny/Documents/workspace/personal/myMirror    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/kenny/Documents/workspace/personal/myMirror/build/myMirror.build/Debug/myMirror.build/myMirror-generated-files.hmap -I/Users/kenny/Documents/workspace/personal/myMirror/build/myMirror.build/Debug/myMirror.build/myMirror-own-target-headers.hmap -I/Users/kenny/Documents/workspace/personal/myMirror/build/myMirror.build/Debug/myMirror.build/myMirror-all-target-headers.hmap -iquote /Users/kenny/Documents/workspace/personal/myMirror/build/myMirror.build/Debug/myMirror.build/myMirror-project-headers.hmap -F/Users/kenny/Documents/workspace/personal/myMirror/build/Debug -I/Users/kenny/Documents/workspace/personal/myMirror/build/Debug/include -I/Users/kenny/Documents/workspace/personal/myMirror/build/myMirror.build/Debug/myMirror.build/DerivedSources/x86_64 -I/Users/kenny/Documents/workspace/personal/myMirror/build/myMirror.build/Debug/myMirror.build/DerivedSources -include /var/folders/M+/M+RDJtNIFW0uIYNTdoJfIk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/myMirror_Prefix-fkwppazbybwneygrruzterjkosvb/myMirror_Prefix.pch -c /Users/kenny/Documents/workspace/personal/myMirror/iSight.m -o /Users/kenny/Documents/workspace/personal/myMirror/build/myMirror.build/Debug/myMirror.build/Objects-normal/x86_64/iSight.o0#
+
+CCompileC build/myMirror.build/Debug/myMirror.build/Objects-normal/x86_64/main.o /Users/kenny/Documents/workspace/personal/myMirror/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s332554587.775122
+e332554587.953004
+r1
+xCompileC
+xbuild/myMirror.build/Debug/myMirror.build/Objects-normal/x86_64/main.o
+x/Users/kenny/Documents/workspace/personal/myMirror/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@65"Compile /Users/kenny/Documents/workspace/personal/myMirror/main.m332554587#332554587#0(0"0(0#0#57"/Users/kenny/Documents/workspace/personal/myMirror/main.m8618867232#1602"    cd /Users/kenny/Documents/workspace/personal/myMirror    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/kenny/Documents/workspace/personal/myMirror/build/myMirror.build/Debug/myMirror.build/myMirror-generated-files.hmap -I/Users/kenny/Documents/workspace/personal/myMirror/build/myMirror.build/Debug/myMirror.build/myMirror-own-target-headers.hmap -I/Users/kenny/Documents/workspace/personal/myMirror/build/myMirror.build/Debug/myMirror.build/myMirror-all-target-headers.hmap -iquote /Users/kenny/Documents/workspace/personal/myMirror/build/myMirror.build/Debug/myMirror.build/myMirror-project-headers.hmap -F/Users/kenny/Documents/workspace/personal/myMirror/build/Debug -I/Users/kenny/Documents/workspace/personal/myMirror/build/Debug/include -I/Users/kenny/Documents/workspace/personal/myMirror/build/myMirror.build/Debug/myMirror.build/DerivedSources/x86_64 -I/Users/kenny/Documents/workspace/personal/myMirror/build/myMirror.build/Debug/myMirror.build/DerivedSources -include /var/folders/M+/M+RDJtNIFW0uIYNTdoJfIk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/myMirror_Prefix-fkwppazbybwneygrruzterjkosvb/myMirror_Prefix.pch -c /Users/kenny/Documents/workspace/personal/myMirror/main.m -o /Users/kenny/Documents/workspace/personal/myMirror/build/myMirror.build/Debug/myMirror.build/Objects-normal/x86_64/main.o0#
+
+CCompileC build/myMirror.build/Debug/myMirror.build/Objects-normal/x86_64/myMirrorAppDelegate.o /Users/kenny/Documents/workspace/personal/myMirror/myMirrorAppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s332554587.776197
+e332554587.967380
+r1
+xCompileC
+xbuild/myMirror.build/Debug/myMirror.build/Objects-normal/x86_64/myMirrorAppDelegate.o
+x/Users/kenny/Documents/workspace/personal/myMirror/myMirrorAppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Users/kenny/Documents/workspace/personal/myMirror/myMirrorAppDelegate.m332554587#332554587#0(0"0(0#0#72"/Users/kenny/Documents/workspace/personal/myMirror/myMirrorAppDelegate.m8612996960#1632"    cd /Users/kenny/Documents/workspace/personal/myMirror    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/kenny/Documents/workspace/personal/myMirror/build/myMirror.build/Debug/myMirror.build/myMirror-generated-files.hmap -I/Users/kenny/Documents/workspace/personal/myMirror/build/myMirror.build/Debug/myMirror.build/myMirror-own-target-headers.hmap -I/Users/kenny/Documents/workspace/personal/myMirror/build/myMirror.build/Debug/myMirror.build/myMirror-all-target-headers.hmap -iquote /Users/kenny/Documents/workspace/personal/myMirror/build/myMirror.build/Debug/myMirror.build/myMirror-project-headers.hmap -F/Users/kenny/Documents/workspace/personal/myMirror/build/Debug -I/Users/kenny/Documents/workspace/personal/myMirror/build/Debug/include -I/Users/kenny/Documents/workspace/personal/myMirror/build/myMirror.build/Debug/myMirror.build/DerivedSources/x86_64 -I/Users/kenny/Documents/workspace/personal/myMirror/build/myMirror.build/Debug/myMirror.build/DerivedSources -include /var/folders/M+/M+RDJtNIFW0uIYNTdoJfIk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/myMirror_Prefix-fkwppazbybwneygrruzterjkosvb/myMirror_Prefix.pch -c /Users/kenny/Documents/workspace/personal/myMirror/myMirrorAppDelegate.m -o /Users/kenny/Documents/workspace/personal/myMirror/build/myMirror.build/Debug/myMirror.build/Objects-normal/x86_64/myMirrorAppDelegate.o0#
+
+CCompileC build/myMirror.build/Debug/myMirror.build/Objects-normal/x86_64/untitled.o /Users/kenny/Documents/workspace/personal/myMirror/untitled.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileXIB /Users/kenny/Documents/workspace/personal/myMirror/English.lproj/MainMenu.xib
+s332567765.138022
+e332567765.548230
+r1
+xCompileXIB
+x/Users/kenny/Documents/workspace/personal/myMirror/English.lproj/MainMenu.xib
+lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib332567765#332567765#0(0"0(0#0#77"/Users/kenny/Documents/workspace/personal/myMirror/English.lproj/MainMenu.xib8604689472#401"    cd /Users/kenny/Documents/workspace/personal/myMirror    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/kenny/Documents/workspace/personal/myMirror/build/Debug/myMirror.app/Contents/Resources/English.lproj/MainMenu.nib /Users/kenny/Documents/workspace/personal/myMirror/English.lproj/MainMenu.xib --sdk /Developer/SDKs/MacOSX10.6.sdk0#
+
+CCopyStringsFile /Users/kenny/Documents/workspace/personal/myMirror/build/Debug/myMirror.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s332554584.253871
+e332554584.290264
+r1
+xCopyStringsFile
+x/Users/kenny/Documents/workspace/personal/myMirror/build/Debug/myMirror.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings332554584#332554584#0(0"0(0#0#82"/Users/kenny/Documents/workspace/personal/myMirror/English.lproj/InfoPlist.strings8615656576#390"    cd /Users/kenny/Documents/workspace/personal/myMirror    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir /Users/kenny/Documents/workspace/personal/myMirror/build/Debug/myMirror.app/Contents/Resources/English.lproj0#
+
+CLd /Users/kenny/Documents/workspace/personal/myMirror/build/Debug/myMirror.app/Contents/MacOS/myMirror normal x86_64
+s332554588.122603
+e332554588.176606
+r1
+xLd
+x/Users/kenny/Documents/workspace/personal/myMirror/build/Debug/myMirror.app/Contents/MacOS/myMirror
+xnormal
+xx86_64
+lSLF07#2@104"Link /Users/kenny/Documents/workspace/personal/myMirror/build/Debug/myMirror.app/Contents/MacOS/myMirror332554588#332554588#0(0"0(0#0#0"8612540256#624"    cd /Users/kenny/Documents/workspace/personal/myMirror    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/kenny/Documents/workspace/personal/myMirror/build/Debug -F/Users/kenny/Documents/workspace/personal/myMirror/build/Debug -filelist /Users/kenny/Documents/workspace/personal/myMirror/build/myMirror.build/Debug/myMirror.build/Objects-normal/x86_64/myMirror.LinkFileList -mmacosx-version-min=10.6 -framework Cocoa -framework QTKit -o /Users/kenny/Documents/workspace/personal/myMirror/build/Debug/myMirror.app/Contents/MacOS/myMirror0#
+
+CProcessInfoPlistFile /Users/kenny/Documents/workspace/personal/myMirror/build/Debug/myMirror.app/Contents/Info.plist myMirror-Info.plist
+s332554584.247265
+e332554584.253774
+r1
+xProcessInfoPlistFile
+x/Users/kenny/Documents/workspace/personal/myMirror/build/Debug/myMirror.app/Contents/Info.plist
+xmyMirror-Info.plist
+lSLF07#2@27"Process myMirror-Info.plist332554584#332554584#0(0"0(0#0#70"/Users/kenny/Documents/workspace/personal/myMirror/myMirror-Info.plist30399748463984736#349"    cd /Users/kenny/Documents/workspace/personal/myMirror    builtin-infoPlistUtility myMirror-Info.plist -genpkginfo /Users/kenny/Documents/workspace/personal/myMirror/build/Debug/myMirror.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/kenny/Documents/workspace/personal/myMirror/build/Debug/myMirror.app/Contents/Info.plist0#
+
+CProcessPCH /var/folders/M+/M+RDJtNIFW0uIYNTdoJfIk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/myMirror_Prefix-fkwppazbybwneygrruzterjkosvb/myMirror_Prefix.pch.gch myMirror_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s332554584.643831
+e332554587.774924
+r1
+xProcessPCH
+x/var/folders/M+/M+RDJtNIFW0uIYNTdoJfIk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/myMirror_Prefix-fkwppazbybwneygrruzterjkosvb/myMirror_Prefix.pch.gch
+xmyMirror_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile myMirror_Prefix.pch332554584#332554587#0(0"0(0#0#70"/Users/kenny/Documents/workspace/personal/myMirror/myMirror_Prefix.pch8618552992#1495"    cd /Users/kenny/Documents/workspace/personal/myMirror    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/kenny/Documents/workspace/personal/myMirror/build/myMirror.build/Debug/myMirror.build/myMirror-generated-files.hmap -I/Users/kenny/Documents/workspace/personal/myMirror/build/myMirror.build/Debug/myMirror.build/myMirror-own-target-headers.hmap -I/Users/kenny/Documents/workspace/personal/myMirror/build/myMirror.build/Debug/myMirror.build/myMirror-all-target-headers.hmap -iquote /Users/kenny/Documents/workspace/personal/myMirror/build/myMirror.build/Debug/myMirror.build/myMirror-project-headers.hmap -F/Users/kenny/Documents/workspace/personal/myMirror/build/Debug -I/Users/kenny/Documents/workspace/personal/myMirror/build/Debug/include -I/Users/kenny/Documents/workspace/personal/myMirror/build/myMirror.build/Debug/myMirror.build/DerivedSources/x86_64 -I/Users/kenny/Documents/workspace/personal/myMirror/build/myMirror.build/Debug/myMirror.build/DerivedSources -c /Users/kenny/Documents/workspace/personal/myMirror/myMirror_Prefix.pch -o /var/folders/M+/M+RDJtNIFW0uIYNTdoJfIk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/myMirror_Prefix-fkwppazbybwneygrruzterjkosvb/myMirror_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/M+/M+RDJtNIFW0uIYNTdoJfIk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/myMirror_Prefix-fxtdcllzkaubbmggozyqpeyntwjr/myMirror_Prefix.pch.gch myMirror_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CTouch /Users/kenny/Documents/workspace/personal/myMirror/build/Debug/myMirror.app
+s332567765.548807
+e332567765.551995
+r1
+xTouch
+x/Users/kenny/Documents/workspace/personal/myMirror/build/Debug/myMirror.app
+lSLF07#2@81"Touch /Users/kenny/Documents/workspace/personal/myMirror/build/Debug/myMirror.app332567765#332567765#0(0"0(0#0#0"8604442528#156"    cd /Users/kenny/Documents/workspace/personal/myMirror    /usr/bin/touch -c /Users/kenny/Documents/workspace/personal/myMirror/build/Debug/myMirror.app0#
+
